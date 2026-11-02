@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Samsung NX Camera</string>
+    <string name="tab_gallery">Galeri &amp; Unduh</string>
+    <string name="tab_rvf">Remote Viewfinder</string>
+    <string name="tab_autoshare">AutoShare</string>
+    <string name="connect">Hubungkan</string>
+    <string name="disconnect">Putuskan</string>
+    <string name="camera_status_idle">Langkah 1: Sambungkan Wi-Fi ke AP_SSC_NX3000.\nLangkah 2: Tekan Hubungkan.</string>
+    <string name="camera_status_searching">Melakukan Handshake 7788/8100/1801 ke kamera...</string>
+    <string name="camera_status_disconnected">Terputus</string>
+    <string name="select_all">Pilih Semua</string>
+    <string name="download_selected">Unduh Terpilih</string>
+    <string name="shutter">JEPRET</string>
+    <string name="zoom_in">Zoom +</string>
+    <string name="zoom_out">Zoom -</string>
+    <string name="autoshare_title">AutoShare &amp; SelectivePush Otomatis</string>
+    <string name="autoshare_desc">Mendengarkan kiriman foto langsung dari kamera di Port 1801 (AutoShare S2L) dan Port 18100 (SelectivePush). Setiap foto yang dijepret atau dikirim dari kamera akan otomatis tersimpan ke Galeri HP (DCIM/SamsungNX).</string>
+    <string name="autoshare_toggle">Aktifkan Penerima Otomatis (Port 1801 &amp; 18100)</string>
+    <string name="autoshare_off">Status: Siaga</string>
+</resources>
